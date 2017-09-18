@@ -4,12 +4,12 @@ you have to install gatsby-cli, if you haven't run this in your terminal:
 npm i -g gatsby-cli
 ```
 
-#Run
+# Run
 ```
 gatsby develop
 ```
 
-#Build
+# Build
 ```
 gatsby build
 ```
